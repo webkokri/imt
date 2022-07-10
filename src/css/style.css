@@ -22083,7 +22083,7 @@ svg text {
   color: #ffb800; }
 
 .input-group-text {
-  background: #d7dae3;
+  background: #ffffff;
   border: 1px solid transparent;
   min-width: 50px;
   display: flex;
@@ -30365,3 +30365,7 @@ html[dir="rtl"] [direction="rtl"][data-sidebar-style="compact"]:not([data-layout
       color: #fff; }
 
 /*# sourceMappingURL=style.css.map */
+
+.copyright.pull-center {
+  text-align: center;
+}

@@ -763,22 +763,14 @@ class SideBar extends Component {
 				<p className="fs-13 font-w300 mb-4">Organize your menus through button bellow</p>
 				<Link className="btn bg-white text-black btn-rounded d-block" to="#">+Add Menus</Link>
 			</div>
-			<div className="copyright">
+			<div className="copyright pull-center">
 				<p>
-				  <strong>Koki Restaurant React Dashboard</strong> © 2021 All
+				  <strong>AirWiz</strong> © 2022 All
 				  Rights Reserved
 				</p>
 				<p>
-				  Made with{" "}
-				  <span
-					className={`${
-					  this.state.loveEmoji ? "heart heart-blast" : "heart"
-					}`}
-					onClick={() =>
-					  this.setState({ loveEmoji: !this.state.loveEmoji })
-					}
-				  ></span>{" "}
-				  by DexignZone
+				  Made with <i class="flaticon-381-heart"></i>&nbsp;
+				  by <br></br><a href="http://kokriweb.in">Kokri Web Solutions</a>
 				</p>
 			  </div>
 			</PerfectScrollbar>

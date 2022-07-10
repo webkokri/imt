@@ -53,7 +53,7 @@ const Header = ({ onNote, toggle, onProfile, onActivity, onNotification}) => {
 
                   <ul className="navbar-nav header-right">
                      <li className="nav-item">
-						{/*  <div className="input-group search-area d-lg-inline-flex d-none">
+						 <div className="input-group search-area d-lg-inline-flex d-none">
                            <input
                               type="text"
                               className="form-control"
@@ -64,7 +64,7 @@ const Header = ({ onNote, toggle, onProfile, onActivity, onNotification}) => {
                                  <i className="flaticon-381-search-2"></i>
                               </span>
                            </div>
-                        </div> */}
+                        </div>
                      </li>
 					 <li className="nav-item dropdown notification_dropdown">
                         <Link to ={"#"}
