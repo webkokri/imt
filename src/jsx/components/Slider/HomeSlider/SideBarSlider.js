@@ -88,7 +88,7 @@ const SideBarSlider = () => {
                 className="mr-3 img-fluid rounded-circle"
                 width={50}
                 src={profileImg00}
-                alt="DexignZone"
+                alt="AirWiz"
               />
               <div className="media-body">
                 <h4 className="mt-0 mb-1 text-white">James Kowalski</h4>
@@ -146,7 +146,7 @@ const SideBarSlider = () => {
                 className="mr-3 img-fluid rounded-circle"
                 width={50}
                 src={profileImg01}
-                alt="DexignZone"
+                alt="AirWiz"
               />
               <div className="media-body">
                 <h4 className="mt-0 mb-1 text-white">James Kowalski</h4>

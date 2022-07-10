@@ -94,7 +94,7 @@ class Order extends React.Component{
 									<div className="card-body rounded" style={{background:"#3f4953"}}>
 										<div className="row mx-0 align-items-center">
 											<div className="media align-items-center col-xl-6 col-lg-5 px-0 mb-3 mb-md-0">
-												<img className="mr-3 img-fluid rounded-circle" width="100" src={require("../../../../images/profile/5.png").default} alt="DexignZone" />
+												<img className="mr-3 img-fluid rounded-circle" width="100" src={require("../../../../images/profile/5.png").default} alt="AirWiz" />
 												<div className="media-body">
 													<p className="text-white mb-1 wspace-no">Delivery guy</p>
 													<h3 className="mb-1 text-white  fs-22">Rainold Hawkins</h3>
@@ -133,7 +133,7 @@ class Order extends React.Component{
 													<td>
 														<div className="media">
 															<Link to={"/ecom-product-detail"} >
-																<img className="mr-3 img-fluid rounded" width="85" src={require("../../../../images/card/pic5.jpg").default} alt="DexignZone" />
+																<img className="mr-3 img-fluid rounded" width="85" src={require("../../../../images/card/pic5.jpg").default} alt="AirWiz" />
 															</Link >
 															<div className="media-body">
 																<small className="mt-0 mb-1 font-w500"><Link to={"#"} className="text-primary" >MAIN COURSE</Link ></small>
@@ -166,7 +166,7 @@ class Order extends React.Component{
 													<td>
 														<div className="media">
 															<Link to={"/ecom-product-detail"} >
-																<img className="mr-3 img-fluid rounded" width="85" src={require("../../../../images/card/pic6.jpg").default} alt="DexignZone" />
+																<img className="mr-3 img-fluid rounded" width="85" src={require("../../../../images/card/pic6.jpg").default} alt="AirWiz" />
 															</Link >
 															<div className="media-body">
 																<small className="mt-0 mb-1 font-w500"><Link to={"#"} className="text-primary" >MAIN COURSE</Link ></small>
@@ -199,7 +199,7 @@ class Order extends React.Component{
 													<td>
 														<div className="media">
 															<Link to={"/ecom-product-detail"} >
-																<img className="mr-3 img-fluid rounded" width="85" src={require("../../../../images/card/pic7.jpg").default} alt="DexignZone" />
+																<img className="mr-3 img-fluid rounded" width="85" src={require("../../../../images/card/pic7.jpg").default} alt="AirWiz" />
 															</Link >
 															<div className="media-body">
 																<small className="mt-0 mb-1 font-w500"><Link to={"#"} className="text-primary" >MAIN COURSE</Link ></small>

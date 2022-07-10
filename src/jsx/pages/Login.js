@@ -56,7 +56,7 @@ function Login (props) {
                         <div className="mt-5">
                             <Link to={"#"} className="text-black mr-4">Privacy Policy</Link>
                             <Link to={"#"} className="text-black mr-4">Contact</Link>
-                            <Link to={"#"} className="text-black">© 2021 DexignZone</Link>
+                            <Link to={"#"} className="text-black">© 2022 AirWiz</Link>
                         </div>
                     </div>
                 </div>

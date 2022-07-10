@@ -65,7 +65,7 @@ class Review extends React.Component{
 											<label className="custom-control-label" htmlFor="customCheckBox1"></label>
 										</div>
 										<Link to={"#"}>
-											<img className="mr-3 img-fluid rounded-circle" width="100" src={require("../../../../images/profile/5.jpg").default} alt="DexignZone" />
+											<img className="mr-3 img-fluid rounded-circle" width="100" src={require("../../../../images/profile/5.jpg").default} alt="AirWiz" />
 										</Link>	
 										<div className="card-body p-0">
 											<p className="text-primary fs-14 mb-0">#C01234</p>
@@ -114,7 +114,7 @@ class Review extends React.Component{
 											<label className="custom-control-label" forHtml="customCheckBox2"></label>
 										</div>
 										<Link to={"#"}>
-											<img className="mr-3 img-fluid rounded-circle" width="100" src={require("../../../../images/profile/6.jpg").default} alt="DexignZone" />
+											<img className="mr-3 img-fluid rounded-circle" width="100" src={require("../../../../images/profile/6.jpg").default} alt="AirWiz" />
 										</Link>	
 										<div className="card-body p-0">
 											<p className="text-primary fs-14 mb-0">#C01234</p>
@@ -163,7 +163,7 @@ class Review extends React.Component{
 											<label className="custom-control-label" htmlFor="customCheckBox3"></label>
 										</div>
 										<Link to={"#"}>
-											<img className="mr-3 img-fluid rounded-circle" width="100" src={require("../../../../images/profile/7.jpg").default} alt="DexignZone" />
+											<img className="mr-3 img-fluid rounded-circle" width="100" src={require("../../../../images/profile/7.jpg").default} alt="AirWiz" />
 										</Link>	
 										<div className="card-body p-0">
 											<p className="text-primary fs-14 mb-0">#C01234</p>
@@ -212,7 +212,7 @@ class Review extends React.Component{
 											<label className="custom-control-label" htmlFor="customCheckBox4"></label>
 										</div>
 										<Link to={"#"}>
-											<img className="mr-3 img-fluid rounded-circle" width="100" src={require("../../../../images/profile/5.jpg").default} alt="DexignZone" />
+											<img className="mr-3 img-fluid rounded-circle" width="100" src={require("../../../../images/profile/5.jpg").default} alt="AirWiz" />
 										</Link>	
 										<div className="card-body p-0">
 											<p className="text-primary fs-14 mb-0">#C01234</p>
@@ -261,7 +261,7 @@ class Review extends React.Component{
 											<label className="custom-control-label" htmlFor="customCheckBox5"></label>
 										</div>
 										<Link to={"#"}>
-											<img className="mr-3 img-fluid rounded-circle" width="100" src={require("../../../../images/profile/6.jpg").default} alt="DexignZone" />
+											<img className="mr-3 img-fluid rounded-circle" width="100" src={require("../../../../images/profile/6.jpg").default} alt="AirWiz" />
 										</Link>	
 										<div className="card-body p-0">
 											<p className="text-primary fs-14 mb-0">#C01234</p>
@@ -310,7 +310,7 @@ class Review extends React.Component{
 											<label className="custom-control-label" htmlFor="customCheckBox6"></label>
 										</div>
 										<Link to={"#"}>
-											<img className="mr-3 img-fluid rounded-circle" width="100" src={require("../../../../images/profile/7.jpg").default} alt="DexignZone" />
+											<img className="mr-3 img-fluid rounded-circle" width="100" src={require("../../../../images/profile/7.jpg").default} alt="AirWiz" />
 										</Link>	
 										<div className="card-body p-0">
 											<p className="text-primary fs-14 mb-0">#C01234</p>

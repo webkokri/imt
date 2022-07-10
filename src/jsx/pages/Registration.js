@@ -36,7 +36,7 @@ function Register(props) {
         dispatch(signupAction(email, password, props.history));
     }
   return (
-    <div className='authincation h-100 p-meddle'>
+    <div className='authincation h-100 p-meddle' >
         <div className='container h-100'>
             <div className='row justify-content-center h-100 align-items-center'>
                 <div className='col-md-6'>

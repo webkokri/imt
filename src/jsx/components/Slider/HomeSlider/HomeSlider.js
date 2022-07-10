@@ -85,7 +85,7 @@ const HomeSlider = () => {
                 className="mr-3 img-fluid rounded-xl"
                 width={94}
                 src={burgerImg}
-                alt="DexignZone"
+                alt="AirWiz"
               />
             </Link>
             <div className="media-body">
@@ -111,7 +111,7 @@ const HomeSlider = () => {
                 className="mr-3 img-fluid rounded"
                 width={55}
                 src={profileImg00}
-                alt="DexignZone"
+                alt="AirWiz"
               />
               <div className="media-body">
                 <h4 className="mt-0 mb-1 text-white">Roberto Jr.</h4>
@@ -133,7 +133,7 @@ const HomeSlider = () => {
                 className="mr-3 img-fluid rounded-xl"
                 width={94}
                 src={pizzaImg}
-                alt="DexignZone"
+                alt="AirWiz"
               />
             </Link>
             <div className="media-body">
@@ -159,7 +159,7 @@ const HomeSlider = () => {
                 className="mr-3 img-fluid rounded"
                 width={55}
                 src={profileImg01}
-                alt="DexignZone"
+                alt="AirWiz"
               />
               <div className="media-body">
                 <h4 className="mt-0 mb-1 text-white">Jubaedah</h4>
@@ -181,7 +181,7 @@ const HomeSlider = () => {
                 className="mr-3 img-fluid rounded-xl"
                 width={94}
                 src={juiceImg}
-                alt="DexignZone"
+                alt="AirWiz"
               />
             </Link>
             <div className="media-body">
@@ -207,7 +207,7 @@ const HomeSlider = () => {
                 className="mr-3 img-fluid rounded"
                 width={55}
                 src={profileImg02}
-                alt="DexignZone"
+                alt="AirWiz"
               />
               <div className="media-body">
                 <h4 className="mt-0 mb-1 text-white">Steve Henry</h4>
@@ -229,7 +229,7 @@ const HomeSlider = () => {
                 className="mr-3 img-fluid rounded-xl"
                 width={94}
                 src={burgerImg}
-                alt="DexignZone"
+                alt="AirWiz"
               />
             </Link>
             <div className="media-body">
@@ -255,7 +255,7 @@ const HomeSlider = () => {
                 className="mr-3 img-fluid rounded"
                 width={55}
                 src={profileImg03}
-                alt="DexignZone"
+                alt="AirWiz"
               />
               <div className="media-body">
                 <h4 className="mt-0 mb-1 text-white">Willy Wonca</h4>
@@ -277,7 +277,7 @@ const HomeSlider = () => {
                 className="mr-3 img-fluid rounded-xl"
                 width={94}
                 src={burgerImg}
-                alt="DexignZone"
+                alt="AirWiz"
               />
             </Link>
             <div className="media-body">
@@ -303,7 +303,7 @@ const HomeSlider = () => {
                 className="mr-3 img-fluid rounded"
                 width={55}
                 src={profileImg05}
-                alt="DexignZone"
+                alt="AirWiz"
               />
               <div className="media-body">
                 <h4 className="mt-0 mb-1 text-white">Roberto Jr.</h4>
@@ -325,7 +325,7 @@ const HomeSlider = () => {
                 className="mr-3 img-fluid rounded-xl"
                 width={94}
                 src={burgerImg}
-                alt="DexignZone"
+                alt="AirWiz"
               />
             </Link>
             <div className="media-body">
@@ -351,7 +351,7 @@ const HomeSlider = () => {
                 className="mr-3 img-fluid rounded"
                 width={55}
                 src={profileImg05}
-                alt="DexignZone"
+                alt="AirWiz"
               />
               <div className="media-body">
                 <h4 className="mt-0 mb-1 text-white">Roberto Jr.</h4>
@@ -373,7 +373,7 @@ const HomeSlider = () => {
                 className="mr-3 img-fluid rounded-xl"
                 width={94}
                 src={burgerImg}
-                alt="DexignZone"
+                alt="AirWiz"
               />
             </Link>
             <div className="media-body">
@@ -399,7 +399,7 @@ const HomeSlider = () => {
                 className="mr-3 img-fluid rounded"
                 width={55}
                 src={profileImg05}
-                alt="DexignZone"
+                alt="AirWiz"
               />
               <div className="media-body">
                 <h4 className="mt-0 mb-1 text-white">Roberto Jr.</h4>

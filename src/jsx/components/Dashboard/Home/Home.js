@@ -241,7 +241,7 @@ const Home = () => {
 										<div className="media align-items-center">
 										
 											<Link to={"/ecom-product-detail"} >	
-												<img className=" mr-3 img-fluid rounded-circle" width="75" src={require("./../../../../images/card/pic1.jpg").default} alt="DexignZone" />
+												<img className=" mr-3 img-fluid rounded-circle" width="75" src={require("./../../../../images/card/pic1.jpg").default} alt="AirWiz" />
 											</Link>
 											<div className="media-body">
 												<h5 className="mt-0 mb-2"><Link to={"/ecom-product-detail"} className="text-black" >Tuna Soup spinach with himalaya salt.</Link></h5>
@@ -306,7 +306,7 @@ const Home = () => {
 									<td>
 										<div className="media align-items-center">
 											<Link to={"/ecom-product-detail"}>	
-												<img className="mr-3 img-fluid rounded-circle" width="75" src={require("./../../../../images/card/pic2.jpg").default} alt="DexignZone" />
+												<img className="mr-3 img-fluid rounded-circle" width="75" src={require("./../../../../images/card/pic2.jpg").default} alt="AirWiz" />
 											</Link>	
 											<div className="media-body">
 												<h5 className="mt-0 mb-2"><Link to={"/ecom-product-detail"}  className="text-black">Mozarella Pizza With Random Topping</Link></h5>
@@ -371,7 +371,7 @@ const Home = () => {
 									<td>
 										<div className="media align-items-center">
 											<Link to={"/ecom-product-detail"}>	
-												<img className="mr-3 img-fluid rounded-circle" width="75" src={require("./../../../../images/card/pic3.jpg").default} alt="DexignZone" />
+												<img className="mr-3 img-fluid rounded-circle" width="75" src={require("./../../../../images/card/pic3.jpg").default} alt="AirWiz" />
 											</Link>	
 											<div className="media-body">
 												<h5 className="mt-0 mb-2"><Link to={"/ecom-product-detail"}  className="text-black">Sweet Cheezy Pizza for Kids Meal (Small Size)</Link></h5>
@@ -436,7 +436,7 @@ const Home = () => {
 									<td>
 										<div className="media align-items-center">
 											<Link to={"/ecom-product-detail"}>	
-												<img className="mr-3 img-fluid rounded-circle" width="75" src={require("./../../../../images/card/pic6.jpg").default} alt="DexignZone" />
+												<img className="mr-3 img-fluid rounded-circle" width="75" src={require("./../../../../images/card/pic6.jpg").default} alt="AirWiz" />
 											</Link>	
 											<div className="media-body">
 												<h5 className="mt-0 mb-2"><Link to={"/ecom-product-detail"}  className="text-black">Tuna soup spinach with himalaya salt</Link></h5>
@@ -501,7 +501,7 @@ const Home = () => {
 									<td>
 										<div className="media align-items-center">
 											<Link to={"/ecom-product-detail"}>	
-												<img className="mr-3 img-fluid rounded-circle" width="75" src={require("./../../../../images/card/pic7.jpg").default} alt="DexignZone" />
+												<img className="mr-3 img-fluid rounded-circle" width="75" src={require("./../../../../images/card/pic7.jpg").default} alt="AirWiz" />
 											</Link>	
 											<div className="media-body">
 												<h5 className="mt-0 mb-2"><Link to={"/ecom-product-detail"}  className="text-black">Mozarella Pizza With Random Topping</Link></h5>
